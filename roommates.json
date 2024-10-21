@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Afet Kutlay",
+    "debe": 1250,
+    "recibe": 0,
+    "id": "2b8c135d-8b53-4eff-9346-5310a0e5513a"
+  },
+  {
+    "nombre": "Nikolas Alstad",
+    "debe": 950,
+    "recibe": 900,
+    "id": "85021c20-9519-4201-859d-36bdcc04480d"
+  },
+  {
+    "nombre": "Gloria Lucero",
+    "debe": 675,
+    "recibe": 1725,
+    "id": "7d4b3c70-8d84-45ea-8337-f7f516153b44"
+  },
+  {
+    "nombre": "Ivana Nenadović",
+    "debe": 875,
+    "recibe": 1125,
+    "id": "bda10a80-7264-458a-b834-2eb86116c509"
+  }
+]

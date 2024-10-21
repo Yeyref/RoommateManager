@@ -1,0 +1,20 @@
+[
+  {
+    "id": "7cc9e5f1-80fc-4ca8-b132-9daf7b794aa8",
+    "roommate": "7d4b3c70-8d84-45ea-8337-f7f516153b44",
+    "descripcion": "Marco de puerta",
+    "monto": 2300
+  },
+  {
+    "roommate": "bda10a80-7264-458a-b834-2eb86116c509",
+    "descripcion": "Spaguetti",
+    "monto": 1500,
+    "id": "c8ebe769-2e1d-431e-948f-51cdfed56a0d"
+  },
+  {
+    "roommate": "85021c20-9519-4201-859d-36bdcc04480d",
+    "descripcion": "Salsa Inglesa",
+    "monto": 1200,
+    "id": "ddfdd57f-1cf5-40f7-b124-cb93ee644540"
+  }
+]
